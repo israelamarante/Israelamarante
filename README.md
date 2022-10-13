@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Israel Amarante 👋
-- 🔭 fazendo faculdade de analises e desenvolvimneto de sistemas
-- 🌱 Estudando desenvolvimento web-HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais
+- 🔭 fazendo faculdade de analises e desenvolvimento de sistemas
+- 🌱 Estudando desenvolvimento Web-HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais
 - 😄 Pronouns:ele/dele
 
-![Israek amarante's GitHub stats](https://github-readme-stats.vercel.app/api?username=israelamarante&show_icons=true&theme=dracula)
+![Israel amarante's GitHub stats](https://github-readme-stats.vercel.app/api?username=israelamarante&show_icons=true&theme=dracula)
 
 ##Tecnologias que eu uso no dia 
  <div style="display:inline-block"><br>
