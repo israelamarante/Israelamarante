@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! Eu sou o Israel Amarante 👋
+- 🔭 fazendo faculdade de analises e desenvolvimneto de sistemas
+- 🌱 Estudando desenvolvimento web-HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais
+- 😄 Pronouns:ele/dele
 
-<!--
-**israelamarante/Israelamarante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Israek amarante's GitHub stats](https://github-readme-stats.vercel.app/api?username=israelamarante&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
+##Tecnologias que eu uso no dia 
+ <div style="display:inline-block"><br>
+        <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+        <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+        <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+        <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
+        <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+   </div><br>
+   Apaixonado por tecnologia, esportes,series e mudar vidas atráves da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     
