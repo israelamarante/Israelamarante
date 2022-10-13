@@ -2,6 +2,7 @@
 - 🔭 fazendo faculdade de analises e desenvolvimento de sistemas
 - 🌱 Estudando desenvolvimento Web-HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais
 - 😄 Pronouns:ele/dele
+- 😄 Contate-me:pr.israelamarante@gmail.com
 
 ![Israel amarante's GitHub stats](https://github-readme-stats.vercel.app/api?username=israelamarante&show_icons=true&theme=dracula)
 
