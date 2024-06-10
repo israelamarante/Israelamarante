@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Israel Amarante 👋
-- 🔭 fazendo faculdade de analises e desenvolvimento de sistemas
+- 🔭 formado em analises e desenvolvimento de sistemas
 - 🌱 Estudando desenvolvimento Web-HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais
 - 😄 Pronouns:ele/dele
 - 😄 Contate-me:pr.israelamarante@gmail.com
@@ -13,6 +13,7 @@
         <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
         <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
         <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+        <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp">
    </div><br>
    Apaixonado por tecnologia, esportes,series e mudar vidas atráves da programação.
 
