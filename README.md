@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Israel Amarante 👋
-- 🔭 formado em analises e desenvolvimento de sistemas
-- 🌱 Estudando desenvolvimento Web-HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais
+- 🔭 Formado em analises e desenvolvimento de sistemas
+- 🌱 Estudando C# e cibersegurança
 - 😄 Pronouns:ele/dele
 - 😄 Contate-me:pr.israelamarante@gmail.com
 
@@ -15,11 +15,6 @@
        <img height="50em" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
        <img height="50em" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
        <img height="50em" aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-          
-            
-          
-          
           
    </div><br>
    Apaixonado por tecnologia, esportes,series e mudar vidas atráves da programação.
